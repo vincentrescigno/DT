@@ -1,8 +1,8 @@
-# Welcome to My Site
-
-Hello world 
-
-- Take a moment to understand 
-
-
-This is the first post. 
+---
+title: "Welcome to MoneyBoth"
+description: "Latest blog posts and updates"
+showDate: false
+showReadingTime: false
+template: home
+excludeFromBlogList: true
+---

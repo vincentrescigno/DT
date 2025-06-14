@@ -6,11 +6,17 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>My First Blog Post</title>
+    <link>https://quartz.jzhao.xyz/blog-first-post</link>
+    <guid>https://quartz.jzhao.xyz/blog-first-post</guid>
+    <description>This is my first Quartz blog post!</description>
+    <pubDate>Sat, 14 Jun 2025 04:00:00 GMT</pubDate>
+  </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Welcome to My Site Hello world.</description>
-    <pubDate>Fri, 13 Jun 2025 04:13:04 GMT</pubDate>
+    <description>Welcome to My Site Hello world Take a moment to understand This is the first post.</description>
+    <pubDate>Sat, 14 Jun 2025 03:07:09 GMT</pubDate>
   </item>
     </channel>
   </rss>

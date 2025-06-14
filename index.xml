@@ -6,17 +6,23 @@
       <description>Last 10 notes on MoneyBoth</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Blog</title>
+    <link>https://quartz.jzhao.xyz/blog</link>
+    <guid>https://quartz.jzhao.xyz/blog</guid>
+    <description>All blog posts</description>
+    <pubDate>Sat, 14 Jun 2025 04:46:25 GMT</pubDate>
+  </item><item>
+    <title>Welcome to MoneyBoth</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Latest blog posts and updates</description>
+    <pubDate>Sat, 14 Jun 2025 04:46:25 GMT</pubDate>
+  </item><item>
     <title>My First Blog Post</title>
     <link>https://quartz.jzhao.xyz/blog-first-post</link>
     <guid>https://quartz.jzhao.xyz/blog-first-post</guid>
     <description>This is my first Quartz blog post!</description>
     <pubDate>Sat, 14 Jun 2025 04:00:00 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Welcome to My Site Hello world Take a moment to understand This is the first post.</description>
-    <pubDate>Sat, 14 Jun 2025 03:07:09 GMT</pubDate>
   </item>
     </channel>
   </rss>

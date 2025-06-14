@@ -1,14 +1,10 @@
 ---
-title: "My First Blog Post"
-description: "This is my first Quartz blog post!"
+title: "Spend Like There's No Tomorrow"
+description: "Money Traps you can't see until it's too late"
 created: 2025-06-14
 tags: [blog, thoughts]
 ---
 
-Welcome to my blog post! This is where I share my thoughts.
+"How was your weekend?" The common social workspace question. A simple but loaded question for some. However, did you know this question can tell you a lot about a person within seconds. And even more about someones finances. 
 
-You can add **Markdown**, links, images, etc.
-
-- Bullet points
-- Code blocks
-- Quotes
+That's right - "How was your weekend?" Oh we went to  
